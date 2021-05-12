@@ -1,39 +1,131 @@
 # Piano-Arduino-Library
-This is a library with basic piano notes
-
-
-
-Here are the current note commands
-
-
-
-Piano.play_c();
-
-
-
-Piano.play_d();
-
-
-
-Piano.play_e();
+* This is a Piano Arduino Library Developed By Roshan Baig
 
 
 
 
-Piano.play_f();
+ * This is an example which plays a note when a button is pushed
 
 
 
-Piano.play_g();
+
+ * Here are the current note commands
 
 
-Piano.play_a();
 
 
-Piano.play_b();
+ * speaker.play_Bass_c();
 
 
-Piano.play_C();
 
 
-Replace Piano with your class name
+
+ * speaker.play_Bass_c_sharp();
+
+
+
+
+
+ * speaker.play_Bass_d();
+
+
+
+
+
+ * speaker.play_Bass_d_sharp();
+
+
+
+
+
+ * speaker.play_Bass_e();
+
+
+
+
+
+ * speaker.play_Bass_f();
+
+
+
+
+
+ * speaker.play_Bass_f_sharp();
+
+
+
+
+
+ * speaker.play_Bass_g();
+
+
+
+
+
+ * speaker.play_Bass_g_sharp();
+
+
+
+
+ * speaker.play_Bass_a();
+
+
+
+
+ * speaker.play_Bass_a_sharp();
+
+
+
+
+ * speaker.play_Bass_b();
+
+
+
+
+ * speaker.play_Middle_c();
+
+
+
+
+ * speaker.play_Treble_d();
+
+
+
+
+ * speaker.play_Treble_e();
+
+
+
+
+ * speaker.play_Treble_f();
+
+
+
+
+ * speaker.play_Treble_g();
+
+
+
+
+ * speaker.play_Treble_a();
+
+
+
+
+ * speaker.play_Treble_b();
+
+
+
+ * speaker.play_Upper_C();
+
+
+
+ * speaker.play_Treble_a_sharp();
+
+
+ * speaker.noPlay();
+
+
+
+
+replace speaker with your class name
